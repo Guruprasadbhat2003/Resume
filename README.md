@@ -47,7 +47,8 @@ Double-click index.html or run a simple server:
 python -m http.server
 ```
 Then visit http://localhost:8000 in your browser
-📁 Project Structure
+
+#📁 Project Structure
 ```bash
 Resume/
 ├── index.html        # Homepage
