@@ -38,20 +38,17 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/Guruprasadbhat2003/Resume.git
 cd Resume
+```
 2. Open in Browser
 Double-click index.html or run a simple server:
 
-bash
-Copy
-Edit
+```bash
 # Using Python 3
 python -m http.server
-
+```
 # Then visit http://localhost:8000 in your browser
 📁 Project Structure
-bash
-Copy
-Edit
+```bash
 Resume/
 ├── index.html        # Homepage
 ├── resume.html       # Resume details
@@ -61,3 +58,4 @@ Resume/
 ├── style2.css        # Component-specific styles
 ├── script.js         # JavaScript & jQuery
 └── GURU.jpg          # Profile image
+```
