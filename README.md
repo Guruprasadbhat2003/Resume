@@ -4,7 +4,6 @@ Website (multiple Web pages) containing ‘Resume’ and Bio -data by using rele
 
 Welcome to my personal resume website repository! This project is a fully responsive and interactive multi-page portfolio built with **HTML**, **CSS**, and **JavaScript** to showcase my background, skills, and professional journey.
 
-![Website Preview](GURU.jpg) <!-- Optional preview image -->
 
 ---
 
@@ -39,3 +38,26 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/Guruprasadbhat2003/Resume.git
 cd Resume
+2. Open in Browser
+Double-click index.html or run a simple server:
+
+bash
+Copy
+Edit
+# Using Python 3
+python -m http.server
+
+# Then visit http://localhost:8000 in your browser
+📁 Project Structure
+bash
+Copy
+Edit
+Resume/
+├── index.html        # Homepage
+├── resume.html       # Resume details
+├── biodata.html      # Biodata section
+├── style.css         # Main styles
+├── style1.css        # Additional styling
+├── style2.css        # Component-specific styles
+├── script.js         # JavaScript & jQuery
+└── GURU.jpg          # Profile image
